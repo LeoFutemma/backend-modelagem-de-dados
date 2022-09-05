@@ -6,8 +6,6 @@
 Exercício proposto pela [Cubos Academy](https://cubos.academy/sucesso), tem como objetivo modelar um banco de dados de supermercado com PostgreSQL.
 
 :desktop_computer: Tecnologias usadas
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Node.Js](https://nodejs.org/en/docs/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Modelando e criando Banco de dados
